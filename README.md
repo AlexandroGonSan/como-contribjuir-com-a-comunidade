@@ -21,4 +21,6 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 ```
   > automatizar solução da falha
-- mapear no git `git submodule update --remote` para `git remote submodule update`
+- mapear no git: `git submodule update --remote` para `git remote submodule update`
+- definir `superproject` no contexto da página [Git - git-submodule Documentation](https://git-scm.com/docs/git-submodule)
+  - enviar para eles e pedir para atualizarem a página e pedir para tornar a edição da página pública para pull requests
