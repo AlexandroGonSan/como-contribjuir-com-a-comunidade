@@ -21,3 +21,4 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 ```
   > automatizar solução da falha
+- mapear no git `git submodule update --remote` para `git remote submodule update`
