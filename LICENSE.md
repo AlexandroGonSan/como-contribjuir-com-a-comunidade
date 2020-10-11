@@ -1,9 +1,0 @@
-##### Permissões
-*   With limitations
-##### Limitações
-*   Derivative works must retain the rights of the license creator and the creator who used the license
-##### Condições
-*   Royal
-*   Royalty
-
-Permissive license in which you must give unrestricted access and power to the license creator and the creator who used the license in its creation in addition to maintaining that right in any derivative works. In derivative works or original works there may be more than one license including this one. If there is any financial, social or other gain, it will be necessary to share it with the license creator and the creator who used the license in its creation. For specific cases that raise doubts, consult the license creator.
