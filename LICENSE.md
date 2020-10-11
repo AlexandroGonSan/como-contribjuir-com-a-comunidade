@@ -1,32 +1,9 @@
-<div class="gutter d-flex">
-
-<div class="col-4 p-0 mb-2">
-
-##### Permissions
-
-*   All/Tudo/Todas
-
-</div>
-
-<div class="col-4 p-0 mb-2">
-
-##### Limitations
-
-*   Nenhuma
-
-</div>
-
-<div class="col-4 p-0 mb-2">
-
-##### Conditions
-
+##### Permissões
+*   With limitations
+##### Limitações
+*   Derivative works must retain the rights of the license creator and the creator who used the license
+##### Condições
 *   Royal
 *   Royalty
 
-</div>
-
-</div>
-
-Licença permissiva na qual você deve dar irrestrito acesso e poder ao criador inclusive para trabalhos que utilizem a licença
-mas que não tenha sido criados pelo criador da licença
-a partir da qual você deve caso tenha obtivo algum ganho, financeiro, social ou outro compartilhar com o criador da licença e com o criador daquilo que usa a licença
+Permissive license in which you must give unrestricted access and power to the license creator and the creator who used the license in its creation in addition to maintaining that right in any derivative works. In derivative works or original works there may be more than one license including this one. If there is any financial, social or other gain, it will be necessary to share it with the license creator and the creator who used the license in its creation. For specific cases that raise doubts, consult the license creator.
